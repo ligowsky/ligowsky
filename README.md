@@ -5,4 +5,4 @@ I'm a web developer with experience in
 
 My contribution: 
 - [Flux](https://github.com/BitzArt/Flux)
-- [Loadable](https://github.com/ligowsky/Loadable)
+- [Blazor.Auth](https://github.com/BitzArt/Blazor.Auth)
