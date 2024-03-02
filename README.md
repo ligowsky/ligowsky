@@ -6,4 +6,4 @@ I'm a web developer with experience in
 My contribution: 
 - 🪢 [Flux](https://github.com/BitzArt/Flux) - A universal WebAPI client
 - 🔐 [Blazor.Auth](https://github.com/BitzArt/Blazor.Auth) - Painless Blazor United authentication 
-- 🍪 [Blazor.Cookies](https://github.com/BitzArt/Blazor.Cookies) - Work easily with cookies in Blazor United 
+- 🍪 [Blazor.Cookies](https://github.com/BitzArt/Blazor.Cookies) - Work easily with cookies in Blazor 
