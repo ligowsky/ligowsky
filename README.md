@@ -5,6 +5,6 @@ I'm a web developer with experience in
 
 My contribution: 
 - 🪢 [Flux](https://github.com/BitzArt/Flux) - A universal WebAPI client
-- 🔐 [Blazor.Auth](https://github.com/BitzArt/Blazor.Auth) - A tearless authentication library for Blazor United
-- 🍪 [Blazor.Cookies](https://github.com/BitzArt/Blazor.Cookies) - Delicious cookies for Blazor United
-- ⛓ [Blazor.MVVM](https://github.com/BitzArt/Blazor.MVVM) - An MVVM library for Blazor United
+- 🔐 [Blazor.Auth](https://github.com/BitzArt/Blazor.Auth) - A tearless authentication library for Blazor
+- 🍪 [Blazor.Cookies](https://github.com/BitzArt/Blazor.Cookies) - Delicious cookies for Blazor
+- 💾 [Blazor.State](https://github.com/BitzArt/Blazor.State) - Persisting Blazor component state across rendering environments
